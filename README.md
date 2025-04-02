@@ -1,1 +1,1 @@
-Catalyst UI Kit with TailwindCSS 4
+Catalyst UI with TailwindCSS 4 Demo
